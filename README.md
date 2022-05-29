@@ -1,5 +1,5 @@
 # Contador de clicks con React
-Hola! Este es un cotador de clicks realizado con React que realicé usando el tutorial de FreeCodeCamp a modo de práctica.
+Hola! Este es un contador de clicks realizado con React que realicé usando el tutorial de FreeCodeCamp a modo de práctica.
 
 
 # Ejecutar la aplicación
